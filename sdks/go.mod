@@ -27,7 +27,7 @@ require (
 	cloud.google.com/go/bigtable v1.33.0
 	cloud.google.com/go/datastore v1.19.0
 	cloud.google.com/go/profiler v0.4.1
-	cloud.google.com/go/pubsub v1.44.0
+	cloud.google.com/go/pubsub v1.45.1
 	cloud.google.com/go/spanner v1.70.0
 	cloud.google.com/go/storage v1.45.0
 	github.com/aws/aws-sdk-go-v2 v1.32.2
@@ -58,7 +58,7 @@ require (
 	golang.org/x/sync v0.8.0
 	golang.org/x/sys v0.26.0
 	golang.org/x/text v0.19.0
-	google.golang.org/api v0.202.0
+	google.golang.org/api v0.203.0
 	google.golang.org/genproto v0.0.0-20241015192408-796eee8c2d53
 	google.golang.org/grpc v1.67.1
 	google.golang.org/protobuf v1.35.1
@@ -75,7 +75,7 @@ require (
 
 require (
 	cel.dev/expr v0.16.1 // indirect
-	cloud.google.com/go/auth v0.9.8 // indirect
+	cloud.google.com/go/auth v0.9.9 // indirect
 	cloud.google.com/go/auth/oauth2adapt v0.2.4 // indirect
 	cloud.google.com/go/monitoring v1.21.1 // indirect
 	dario.cat/mergo v1.0.0 // indirect
